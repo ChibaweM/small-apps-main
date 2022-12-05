@@ -77,7 +77,7 @@
       $('#simple-timer').syotimer({
         year: 2022,
         month: 12,
-        day: 8,
+        day: 9,
         hour: 0,
         minute: 0
       });
