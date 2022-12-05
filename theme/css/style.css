@@ -1020,7 +1020,6 @@ button:focus,
   transform: translateX(-50%);
   width: 200%;
   height: 200%;
-  border-radius: 50%;
   background-image: linear-gradient(45deg, #16161A 45%, #C117BC 45%);
 }
 
